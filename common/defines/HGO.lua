@@ -7,3 +7,7 @@ NDefines.NGraphics.COUNTRY_FLAG_LARGE_STRIPE_MAX_HEIGHT = 8000
 NDefines.NDiplomacy.TENSION_STATE_VALUE = 1.4
 NDefines.NDiplomacy.TENSION_ANNEX_NO_CLAIM = 1.5
 NDefines.NDiplomacy.TENSION_TIME_SCALE_MONTHLY_FACTOR = -0.007
+
+-- Wider zoom range
+NDefines.NFrontend.CAMERA_MIN_HEIGHT = 25.0
+NDefines.NFrontend.CAMERA_MAX_HEIGHT = 3625.0
